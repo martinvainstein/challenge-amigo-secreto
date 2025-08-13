@@ -3,7 +3,7 @@
 ![Status](https://img.shields.io/badge/STATUS-Completado-brightgreen)
 ![Made with](https://img.shields.io/badge/Made%20with-HTML%2FCSS%2FJS-blue)
 
-> Pequeña app web en JavaScript puro para sortear un **amigo secreto** a partir de una lista de nombres ingresados por la persona usuaria.
+> Pequeña app web en JavaScript para sortear un **amigo secreto** a partir de una lista de nombres ingresados por el usuario.
 
 ## 📚 Índice
 
