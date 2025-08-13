@@ -20,7 +20,7 @@
 
 ## ✨ Demo
 
-* **GitHub Pages (opcional):** publica el repositorio y enlaza aquí tu demo.
+* **GitHub Pages:** [publica el repositorio y enlaza aquí tu demo](https://martinvainstein.github.io/challenge-amigo-secreto/).
 * O agrega una **captura animada (GIF)** mostrando el flujo: escribir nombres → añadir → sortear.
 
 ## 📝 Descripción
